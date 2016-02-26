@@ -11,5 +11,5 @@
 
 
 var doge_style = document.createElement("style");
-doge_style.appendChild(document.createTextNode("i.wow {background: url(https://raw.githubusercontent.com/doubtingreality/fb-dogewow/master/doge.svg) no-repeat !important; background-size: contain !important; }"));
+doge_style.appendChild(document.createTextNode("i.wow {background: url(https://cdn.rawgit.com/doubtingreality/fb-dogewow/master/doge.svg) no-repeat !important; background-size: contain !important; }"));
 document.body.appendChild(doge_style);

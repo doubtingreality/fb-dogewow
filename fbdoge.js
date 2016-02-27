@@ -5,7 +5,7 @@
 // @version      0.3
 // @description  Change the Wow icon on Facebook to Doge
 // @author       Murtada al Mousawy
-// @match        https://www.facebook.com/
+// @match        https://www.facebook.com/*
 // @grant        none
 // ==/UserScript==
 
